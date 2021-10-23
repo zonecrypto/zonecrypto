@@ -1,4 +1,4 @@
-bsc/assets/http:/bsc/assets/0x2838df8b8b2aac7c4917efc87e91d536e47afbb2
+
 {
     "name": "ZCA Token",
     "website": "https://zonecryptoannonce.com/",
