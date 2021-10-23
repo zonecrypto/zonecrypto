@@ -15,7 +15,4 @@
 
     ],
     "audits": [
-        "https://bitriseaudits.com/project/30"
-    ]
-}
- BIN +16.2 KB http:/bsc/assets/0x2838df8b8b2aac7c4917efc87e91d536e47afbb2/logo.png 
+        "https://bitriseaudits.com/project/30
