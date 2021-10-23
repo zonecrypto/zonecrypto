@@ -1,6 +1,4 @@
-
-{
-    "name": "ZCA Token",
+"name": "ZCA Token",
     "website": "https://zonecryptoannonce.com/",
     "telegram": "https://t.me/zcacrypto",
 
