@@ -8,7 +8,7 @@
     "description": "Zone Crypto Annonce(ZCA) Token is a community driven, fair launch token. Our community (Holders) benefit through Static Farming and Automatic Liquidity.",
     "explorer": "https://bscscan.com/token/0x2838df8b8b2aac7c4917efc87e91d536e47afbb2",
     "type": "BEP20",
-    "symbol": "TEND",
+    "symbol": "ZCA",
     "decimals": 18,
     "slippage": 3,
     "status": "active",
