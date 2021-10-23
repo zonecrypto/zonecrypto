@@ -1,2 +1,1 @@
-
-"name": "ZCA Token"
+"ZCA Token"
